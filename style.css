@@ -50,6 +50,9 @@ section h2{
 	border-bottom: 1px solid #ccc;
 	margin-bottom: .5em;
 }
+#titulo-form{
+	text-align: center;
+}
 
 table{
 	width: 100%;
@@ -106,7 +109,7 @@ button{
 	margin-top: -3px;
 	color: #fff;
 	background-color:blue;
-	border-color: yellowgreen;
+	border-color: whitesmoke;
 	width: 18%;
     display: block;
     clear: both;
