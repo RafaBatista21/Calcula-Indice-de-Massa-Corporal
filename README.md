@@ -1,2 +1,2 @@
 # Calcula-Indice-de-Massa-Corporal
-Calcula IMC
+Calcula IMC e Adiciona Paciente
